@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @satismysoul
-- 👀 I’m interested in Go, Rust, iOS
-- 🌱 I’m currently learning Go
-- 💞️ I’m looking to collaborate on Backend Development
-- 📫 How to reach me ... here
+- 👀 I’m interested in Go, iOS
+- 🌱 I’m currently learning iOS
+- 💞️ I’m looking to collaborate on Software Development
+- 📫 How to reach me ... @himynameissaid (telegram)
 
 <!---
 satismysoul/satismysoul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
