@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @satismysoul
-- 👀 I’m interested in Go, Rust
+- 👀 I’m interested in Go, Rust, iOS
 - 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate on Backend Development
 - 📫 How to reach me ... here
