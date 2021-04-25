@@ -2,7 +2,7 @@
 - 👀 I’m interested in Go, iOS
 - 🌱 I’m currently learning iOS
 - 💞️ I’m looking to collaborate on Software Development
-- 📫 How to reach me ... @himynameissaid (telegram)
+- 📫 How to reach me ... 
 [![telegram: himynameissaid](https://img.shields.io/badge/-himynameissaid-blue?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/himynameissaid)](https://t.me/himynameissaid)
 <!---
 satismysoul/satismysoul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
