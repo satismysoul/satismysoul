@@ -1,5 +1,5 @@
-<img align='right' src="https://media.giphy.com/media/FWtVYDHIxgGgE/giphy.gif" width="300">
 - 👋 Hi, I’m @satismysoul
+- <img align='right' src="https://media.giphy.com/media/FWtVYDHIxgGgE/giphy.gif" width="300">
 - 👀 I’m interested in Go, iOS
 - 🌱 I’m currently learning iOS
 - 💞️ I’m looking to collaborate on Software Development
