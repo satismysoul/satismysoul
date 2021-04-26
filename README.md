@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @satismysoul
+- <img align='right' src="https://media.giphy.com/media/E3rTT0cbTFKrKnFXy8/giphy.gif" width="400">
 - 👀 I’m interested in Go, iOS
 - 🌱 I’m currently learning iOS
 - 💞️ I’m looking to collaborate on Software Development
 - 📫 How to reach me : 
 [![telegram: himynameissaid](https://img.shields.io/badge/-himynameissaid-blue?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/himynameissaid)](https://t.me/himynameissaid)
-https://media.giphy.com/media/E3rTT0cbTFKrKnFXy8/giphy.gif
+
 <!---
 satismysoul/satismysoul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
