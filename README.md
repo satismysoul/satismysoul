@@ -1,7 +1,7 @@
   Hi, I’m @satismysoul 👋 
 <img align='right' src="https://media.giphy.com/media/FWtVYDHIxgGgE/giphy.gif" width="300">
-- 👀 I’m interested in Go, iOS
-- 🌱 I’m currently learning iOS
+- 👀 I’m interested in Go, Rust
+- 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate on Software Development
 - 📫 How to reach me : 
 [![telegram: himynameissaid](https://img.shields.io/badge/-himynameissaid-blue?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/himynameissaid)](https://t.me/himynameissaid)
